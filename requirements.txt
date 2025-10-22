@@ -8,3 +8,10 @@ openai==0.28
 tiktoken
 altair==4.2.0
 streamlit-lottie
+pillow
+PyPDF2
+openai
+langchain
+langchain-openai
+faiss-cpu
+tiktoken
